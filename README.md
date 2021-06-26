@@ -1,2 +1,2 @@
-# Language-Translator
-This a basic translator
+# Stock Market Price Prediction
+This a basic model using LSTM
